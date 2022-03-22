@@ -43,3 +43,11 @@ PPT de clase
 
 
 > Enlace: Guía CSS - Mozilla [link](https://developer.mozilla.org/es/docs/Learn/CSS/First_steps)
+
+# JS
+
+
+PPT de clase
+
+
+> Enlace: Guía JS - Mozilla [link](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
