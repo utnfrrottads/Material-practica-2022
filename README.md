@@ -31,3 +31,15 @@ Material de Lectura recomendado:
 
 
 PPT de clase
+
+
+> Enlace: Estructura HTML - Mozilla [link](https://developer.mozilla.org/es/docs/Learn/HTML)
+
+
+# CSS
+
+
+PPT de clase
+
+
+> Enlace: Guía CSS - Mozilla [link](https://developer.mozilla.org/es/docs/Learn/CSS/First_steps)
