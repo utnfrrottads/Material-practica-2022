@@ -16,4 +16,11 @@ Material de Lectura recomendado:
 > Libro:  **El método Lean Startup – Eric Ries**
 > 
 > Libro: **Kanban y Scrum, obteniendo lo mejor de ambos** [link](http://www.proyectalis.com/documentos/KanbanVsScrum_Castellano_FINAL-printed.pdf)
+>
+>Artículo: [VUCA vs BANI](https://openwebinars.net/blog/que-es-un-entorno-bani-y-diferencias-con-un-entorno-vuca/)
+>
 
+# GIT
+
+
+[PPT de clase](https://docs.google.com/presentation/d/1v6k7_8ny6FmJh363VT_XIEd7lwJQn7ai8fOjugwhl7k/edit?usp=sharing)
