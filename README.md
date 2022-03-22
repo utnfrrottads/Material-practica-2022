@@ -34,6 +34,8 @@ PPT de clase
 
 
 > Enlace: Estructura HTML - Mozilla [link](https://developer.mozilla.org/es/docs/Learn/HTML)
+>
+> Enlace: Imágenes y multimedia - Mozill [link](!https://developer.mozilla.org/es/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
 
 
 # CSS
