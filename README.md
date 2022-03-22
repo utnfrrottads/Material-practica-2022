@@ -10,7 +10,10 @@ Material de clases prácticas - Ing. Julián G. Butti
 
 Material de Lectura recomendado:
 > [Manifiesto ágil](https://agilemanifesto.org/iso/es/manifesto.html)
+> 
 > Scrum y XP desde las trincheras [LINK](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf)
+> 
 > Libro:  **El método Lean Startup – Eric Ries**
+> 
 > Libro: **Kanban y Scrum, obteniendo lo mejor de ambos** [link](http://www.proyectalis.com/documentos/KanbanVsScrum_Castellano_FINAL-printed.pdf)
 
