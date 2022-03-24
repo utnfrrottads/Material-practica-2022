@@ -79,7 +79,23 @@ PPT de clase
 
 
 
->[Playlist Youtube clases TTADS](https://www.youtube.com/playlist?list=PLstUYTrWtZx0LGOi0e5hZOXpuV1TGa8FE)
+>[Playlist Youtube TTADS - JS The goods parts](https://www.youtube.com/playlist?list=PLstUYTrWtZx0LGOi0e5hZOXpuV1TGa8FE)
 >
 > Enlace: Guía JS - Mozilla [link](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 >
+
+
+ ---
+ 
+# ANGULAR
+
+
+
+### [PPT de clase](https://utnfrrottads.github.io/presentacion-angulario/#/)
+
+
+>[Playlist Youtube TTADS - Angular](https://youtube.com/playlist?list=PLHjN6GqSS4FkhEec4gANfy7i7eg_d6ySE)
+>
+
+ ---
+ 
