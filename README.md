@@ -54,4 +54,6 @@ Material de Lectura recomendado:
 PPT de clase
 
 
+>[Playlist Youtube clases TTADS](https://www.youtube.com/playlist?list=PLstUYTrWtZx0LGOi0e5hZOXpuV1TGa8FE)
+>
 > Enlace: Guía JS - Mozilla [link](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
