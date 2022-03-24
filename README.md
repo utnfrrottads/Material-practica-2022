@@ -30,18 +30,20 @@ Material de Lectura recomendado:
 # HTML
 
 
-PPT de clase
+[PPT de clase](https://docs.google.com/presentation/d/1bu3BUMlO3_UiKZVBsCVFHdNlW0F6HKvOTyX7uLtS7xM/edit?usp=sharing)
 
 
 > Enlace: Estructura HTML - Mozilla [link](https://developer.mozilla.org/es/docs/Learn/HTML)
 >
 > Enlace: Imágenes y multimedia - Mozilla [link](https://developer.mozilla.org/es/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
+>
+> Curso de Google - Desarrollo Web [link](https://learndigital.withgoogle.com/activate/course/web-development-I)
 
 
 # CSS
 
 
-PPT de clase
+[PPT de clase](https://docs.google.com/presentation/d/11uF1yV0bilWXIR9pYDge_tw8IGTibcpoRtlVV-EioyI/edit?usp=sharing)
 
 
 > Enlace: Guía CSS - Mozilla [link](https://developer.mozilla.org/es/docs/Learn/CSS/First_steps)
