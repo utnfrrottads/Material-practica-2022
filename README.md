@@ -1,6 +1,6 @@
-# Material de práctica TTADS
+# Material de práctica TTADS 2022
 
-Material de clases prácticas - Ing. Julián G. Butti
+Material de clases: Ing. Adrián Meca - Ing. Julián G. Butti
 
 
  ---
