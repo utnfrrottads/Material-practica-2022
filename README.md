@@ -69,7 +69,8 @@ PPT de clase
 > Enlace: Guía CSS - Mozilla [link](https://developer.mozilla.org/es/docs/Learn/CSS/First_steps)
 >
 
-Ejercicios
+#### Ejercicios:
+
 >[Ejercicio 1 CSS - Carta](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Typesetting_a_homepage)
 
  ---
