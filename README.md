@@ -33,7 +33,7 @@ Material de clases: Ing. Adrián Meca - Ing. Julián G. Butti
  
 # DOCKER
 
-PPT de clase
+### [PPT de clase](https://docs.google.com/presentation/d/1yquuK300GLE8zD39pMgIM2G42VUKJMVC0hPx6196qX8/edit?usp=sharing)
 
  ---
  
