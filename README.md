@@ -73,7 +73,17 @@ Material de clases: Ing. Adrián Meca - Ing. Julián G. Butti
 
 >[Ejercicio 1 CSS - Carta](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Typesetting_a_homepage)
 
+
  ---
+
+# Práctica HTML + CSS
+
+
+>Ejercicio entregable: Generar la maquetación completa para laslograr el resultado de las imágenes contenidas en este mismo repositorio dentro de la carpeta 'img/entregable1/*'
+
+
+ ---
+ 
  
 # JS
 
