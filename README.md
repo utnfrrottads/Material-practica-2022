@@ -50,7 +50,7 @@ Material de clases: Ing. Adrián Meca - Ing. Julián G. Butti
 > Curso de Google - Desarrollo Web [link](https://learndigital.withgoogle.com/activate/course/web-development-I)
 >
 
-#### Ejercicios:
+#### Ejercicios sugeridos:
 > [Ejercicio 1 - Estructura HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content)
 >
 > [Ejercicio 2 - Recursos imágenes y videos](https://developer.mozilla.org/es/docs/Learn/HTML/Multimedia_and_embedding/Mozilla_splash_page)
@@ -68,10 +68,13 @@ Material de clases: Ing. Adrián Meca - Ing. Julián G. Butti
 
 > Enlace: Guía CSS - Mozilla [link](https://developer.mozilla.org/es/docs/Learn/CSS/First_steps)
 >
+> Flexbox [link](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 
-#### Ejercicios:
+#### Ejercicios sugeridos:
 
 >[Ejercicio 1 CSS - Carta](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Typesetting_a_homepage)
+>
+>[Juego online de la rana](https://flexboxfroggy.com/#es)
 
 
  ---
