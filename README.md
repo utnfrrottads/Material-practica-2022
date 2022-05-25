@@ -112,3 +112,19 @@ Material de clases: Ing. Adrián Meca - Ing. Julián G. Butti
 
  ---
  
+
+# TESTING
+
+
+Por defecto se utiliza Jasmine como framework. Las nuevas versiones de Angular incluyen Karma. (ng test)
+>[INTRO Jasmine + Karma](https://www.youtube.com/watch?v=a1qKds0IQ_4)
+
+
+Protractor se quitó de la instalación por defecto, pero se puede sumar siguiendo los pasos:
+>[Protractor guide](https://www.protractortest.org/#/tutorial)
+
+
+Se puede utilizar también Cypress, similar a protractor, pero que no está basado en WebDriver
+>[Cypress guide](https://testing-angular.com/end-to-end-testing/#installing-cypress)
+
+ ---
